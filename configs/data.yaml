@@ -1,0 +1,5 @@
+dataset: UCI SMS Spam Collection
+spam_max_length: 120
+train_fraction: 0.7
+validation_fraction: 0.1
+pad_token_id: 50256

@@ -1,0 +1,9 @@
+torch
+tiktoken
+pandas
+numpy
+matplotlib
+requests
+tqdm
+# TensorFlow is only required to convert the original GPT-2 TensorFlow checkpoint.
+# tensorflow<2.17.0
