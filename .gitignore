@@ -7,3 +7,6 @@ data/SMSSpamCollection*
 checkpoints/
 *.pdf
 *.log
+/gpt2/
+/index.html
+/photo.jpg
